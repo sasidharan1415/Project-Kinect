@@ -2,7 +2,7 @@ import telegram
 import asyncio
 
 # Telegram Bot Setup
-BOT_TOKEN = "8195476558:AAHaeoyfz2nZStVHfbwBaDwA5nZqAyUB8xg"
+BOT_TOKEN = "Bot-Token"
 CHAT_ID = "1697253014"
 
 async def send_telegram_notification(message):
